@@ -3,7 +3,7 @@ created by: [@zvezdolom](https://github.com/Zvezdolom)
 
 ---
 
-### [Практики Второго Семестра](https://github.com/Zvezdolom/mersoff/)
+### [Практики Второго Семестра](https://github.com/Zvezdolom/MersOff/tree/main/%5B2%5D%20%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%A1%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80)
 
 ---
 
